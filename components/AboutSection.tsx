@@ -18,7 +18,7 @@ const AboutSection = () => {
           </div>
           <div className="order-1 md:order-2">
             <img 
-              src="/images/mission.jpg" 
+              src="images/mission.jpg" 
               alt="A focused chess training session at Abraham Chess Academy in Uganda" 
               className="rounded-lg shadow-2xl w-full h-auto object-cover"
             />

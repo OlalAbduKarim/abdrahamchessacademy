@@ -11,19 +11,19 @@ export const trainingPrograms = [
     name: 'Beginner Package',
     price: 'UGX 30,000/session',
     description: 'Learn the fundamentals of chess, from piece movement to basic tactics.',
-    imageUrl: '/images/training1.jpg',
+    imageUrl: 'images/training1.jpg',
   },
   {
     name: 'Intermediate Package',
     price: 'UGX 50,000/session',
     description: 'Deepen your understanding of strategy, openings, and endgame principles.',
-    imageUrl: '/images/training2.jpg',
+    imageUrl: 'images/training2.jpg',
   },
   {
     name: 'Advanced Package',
     price: 'UGX 70,000/session',
     description: 'Master complex strategies, positional play, and advanced tactical patterns.',
-    imageUrl: '/images/training3.jpg',
+    imageUrl: 'images/training3.jpg',
   },
 ];
 
@@ -31,17 +31,17 @@ export const chessProducts = [
   {
     name: 'Wooden Chess Boards',
     price: 'UGX 65,000',
-    imageUrl: '/images/product1.jpg',
+    imageUrl: 'images/product1.jpg',
   },
   {
     name: 'Magnetic Travel Sets',
     price: 'UGX 40,000',
-    imageUrl: '/images/product2.jpg',
+    imageUrl: 'images/product2.jpg',
   },
   {
     name: 'Professional Chess Clocks',
     price: 'UGX 85,000',
-    imageUrl: '/images/product3.jpg',
+    imageUrl: 'images/product3.jpg',
   },
 ];
 
