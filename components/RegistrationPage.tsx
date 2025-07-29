@@ -44,7 +44,7 @@ Details:
 ${message || 'None'}
 `;
     
-    window.location.href = `mailto:olalabdukarim@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = `mailto:AbrahamAcademy4Chess@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
     setStatus('submitted');
   };

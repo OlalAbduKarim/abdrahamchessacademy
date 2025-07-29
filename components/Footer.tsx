@@ -47,7 +47,7 @@ const Footer = ({ page, onNavigateHome }: { page: string, onNavigateHome: () => 
               <h3 className="text-lg font-bold mb-4">Contact Us</h3>
               <ul className="space-y-2 text-stone-300">
                 <li>Phone: +256 761 330 687</li>
-                <li>Email: contact@abrahamchess.ug</li>
+                <li>Email: AbrahamAcademy4Chess@gmail.com</li>
                 <li>Location: Kampala, Uganda</li>
               </ul>
             </div>
